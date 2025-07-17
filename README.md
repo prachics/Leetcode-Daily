@@ -6,5 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/prachics/Leetcode-Daily/tree/master/0394-decode-string) |
 | [3396-valid-word](https://github.com/prachics/Leetcode-Daily/tree/master/3396-valid-word) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/prachics/Leetcode-Daily/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/prachics/Leetcode-Daily/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
