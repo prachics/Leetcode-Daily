@@ -12,8 +12,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/prachics/Leetcode-Daily/tree/master/0394-decode-string) |
+| [0735-asteroid-collision](https://github.com/prachics/Leetcode-Daily/tree/master/0735-asteroid-collision) |
 ## Recursion
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/prachics/Leetcode-Daily/tree/master/0394-decode-string) |
+## Array
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/prachics/Leetcode-Daily/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/prachics/Leetcode-Daily/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
