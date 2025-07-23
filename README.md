@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prachics/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/prachics/Leetcode-Daily/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/prachics/Leetcode-Daily/tree/master/0735-asteroid-collision) |
 ## Recursion
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prachics/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/prachics/Leetcode-Daily/tree/master/0056-merge-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prachics/Leetcode-Daily/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0735-asteroid-collision](https://github.com/prachics/Leetcode-Daily/tree/master/0735-asteroid-collision) |
@@ -36,4 +38,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/prachics/Leetcode-Daily/tree/master/0056-merge-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prachics/Leetcode-Daily/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/prachics/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/prachics/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/prachics/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
