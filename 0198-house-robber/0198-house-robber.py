@@ -1,23 +1,18 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
         n = len(nums)
-        dp = [-1]*(n)
+
+        if n==1:
+            return nums[0]
         
-        def max_rob(n, nums):
-            if n == 0: return 0  # No houses to rob
-            if n == 1: return nums[0]  # Only one house
+        dp = [0]*n
 
-            if dp[n-1]!=-1:
-                return dp[n-1]
+        dp[0] = nums[0]
+        dp[1] = max(nums[0],nums[1])
 
-
-            dp[n-1] = max(max_rob(n-2,nums)+nums[n-1],max_rob(n-1,nums))
-
-            return dp[n-1]
+        for i in range(2,n):
+            dp[i] = max(dp[i-1],dp[i-2]+nums[i])
         
+        return dp[-1]
+    
 
-
-        result = max_rob(n,nums)
-        return result
-
-        
