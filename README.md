@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/prachics/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/prachics/Leetcode-Daily/tree/master/0056-merge-intervals) |
 | [0198-house-robber](https://github.com/prachics/Leetcode-Daily/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/prachics/Leetcode-Daily/tree/master/0200-number-of-islands) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prachics/Leetcode-Daily/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0735-asteroid-collision](https://github.com/prachics/Leetcode-Daily/tree/master/0735-asteroid-collision) |
 ## Simulation
@@ -53,4 +54,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prachics/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/prachics/Leetcode-Daily/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/prachics/Leetcode-Daily/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/prachics/Leetcode-Daily/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/prachics/Leetcode-Daily/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
