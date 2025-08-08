@@ -29,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/prachics/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prachics/Leetcode-Daily/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0735-asteroid-collision](https://github.com/prachics/Leetcode-Daily/tree/master/0735-asteroid-collision) |
+| [2169-simple-bank-system](https://github.com/prachics/Leetcode-Daily/tree/master/2169-simple-bank-system) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/prachics/Leetcode-Daily/tree/master/0735-asteroid-collision) |
+| [2169-simple-bank-system](https://github.com/prachics/Leetcode-Daily/tree/master/2169-simple-bank-system) |
 ## Greedy
 |  |
 | ------- |
@@ -84,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prachics/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/prachics/Leetcode-Daily/tree/master/2169-simple-bank-system) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/prachics/Leetcode-Daily/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
