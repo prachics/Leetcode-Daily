@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prachics/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/prachics/Leetcode-Daily/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/prachics/Leetcode-Daily/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/prachics/Leetcode-Daily/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/prachics/Leetcode-Daily/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prachics/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
@@ -45,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/prachics/Leetcode-Daily/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/prachics/Leetcode-Daily/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prachics/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prachics/Leetcode-Daily/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prachics/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/prachics/Leetcode-Daily/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/prachics/Leetcode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/prachics/Leetcode-Daily/tree/master/0443-string-compression) |
 ## Dynamic Programming
