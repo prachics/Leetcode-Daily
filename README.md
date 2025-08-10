@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/prachics/Leetcode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0394-decode-string](https://github.com/prachics/Leetcode-Daily/tree/master/0394-decode-string) |
+| [0443-string-compression](https://github.com/prachics/Leetcode-Daily/tree/master/0443-string-compression) |
 | [1542-consecutive-characters](https://github.com/prachics/Leetcode-Daily/tree/master/1542-consecutive-characters) |
 | [3396-valid-word](https://github.com/prachics/Leetcode-Daily/tree/master/3396-valid-word) |
 ## Stack
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prachics/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/prachics/Leetcode-Daily/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/prachics/Leetcode-Daily/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
 | ------- |
